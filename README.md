@@ -1,2 +1,2 @@
 # AssignmentYelp
-#EC349 project
+EC349 project
