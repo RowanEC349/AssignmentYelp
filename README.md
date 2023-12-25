@@ -1,7 +1,7 @@
 # AssignmentYelp
 EC349 project github files
 
-There are 5 files in my repository:
+There are 9 files in my repository:
 
 1. u2100546EC349ProjectSubmission.pdf - total pdf submitted (markdown output, r script, markdown code)
 2. MarkdownPDFOutput (Knitted markdown as PDF)
