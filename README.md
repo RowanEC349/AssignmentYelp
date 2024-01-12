@@ -1,7 +1,7 @@
 # AssignmentYelp
 EC349 project github files
 
-**This project demonstrates my programming and predictive modelling capabilities in R.**
+**This project demonstrates my programming and predictive modeling capabilities in R.**
 
 There are 9 files in my repository:
 
