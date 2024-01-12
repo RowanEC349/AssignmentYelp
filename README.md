@@ -1,6 +1,8 @@
 # AssignmentYelp
 EC349 project github files
 
+This project demonstrates my programming and predictive modelling capabilities in R.
+
 There are 9 files in my repository:
 
 1. u2100546EC349ProjectSubmission.pdf - total pdf submitted (markdown output, r script, markdown code)
